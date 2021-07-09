@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/repl-help",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Return help text associated with a provided alias.",
   "license": "Apache-2.0",
   "author": {
