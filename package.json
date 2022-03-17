@@ -45,7 +45,8 @@
     "@stdlib/assert-has-own-property": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/cli-ctor": "^0.0.x",
-    "@stdlib/fs-read-file": "^0.0.x"
+    "@stdlib/fs-read-file": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.0.x",
