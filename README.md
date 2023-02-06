@@ -267,7 +267,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/repl-help#cli
 [cli-url]: https://github.com/stdlib-js/repl-help/tree/cli
-[main-url]: https://github.com/stdlib-js/repl-help
+[@stdlib/repl-help]: https://github.com/stdlib-js/repl-help/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
