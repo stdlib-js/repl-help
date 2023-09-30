@@ -22,7 +22,7 @@
 
 var tape = require( 'tape' );
 var aliases = require( '@stdlib/namespace-aliases' );
-var DATA = require( './../data/data.json' );
+var DATA = require( './../../data/data.json' );
 var help = require( './../../dist' );
 
 
