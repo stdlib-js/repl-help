@@ -26,6 +26,7 @@
 
 <details>
 
+-   [`a480f85`](https://github.com/stdlib-js/stdlib/commit/a480f8585f99b2ff001b470c82414cf34a61c59d) - **docs:** update REPL namespace documentation [(#2427)](https://github.com/stdlib-js/stdlib/pull/2427) _(by stdlib-bot, Athan Reines)_
 -   [`1c27809`](https://github.com/stdlib-js/stdlib/commit/1c27809160d824ad9c4b7f21f1f36e7331df7e9d) - **docs:** update REPL namespace documentation [(#2426)](https://github.com/stdlib-js/stdlib/pull/2426) _(by stdlib-bot, Athan Reines)_
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - **feat:** add `amskput` to namespace _(by Athan Reines)_
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - **feat:** add `aplace` to namespace _(by Athan Reines)_
