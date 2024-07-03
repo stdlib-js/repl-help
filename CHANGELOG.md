@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-01)
+## Unreleased (2024-07-03)
 
 <section class="features">
 
@@ -26,6 +26,7 @@
 
 <details>
 
+-   [`77ecc3a`](https://github.com/stdlib-js/stdlib/commit/77ecc3afbf2912bb05a5d995439e04e26017db34) - **docs:** update REPL namespace documentation [(#2501)](https://github.com/stdlib-js/stdlib/pull/2501) _(by stdlib-bot, Athan Reines)_
 -   [`d2d46ed`](https://github.com/stdlib-js/stdlib/commit/d2d46ed18a02ef8c87a8a896c4bd4b46343a631b) - **docs:** update REPL namespace documentation [(#2492)](https://github.com/stdlib-js/stdlib/pull/2492) _(by stdlib-bot, Athan Reines)_
 -   [`bdb7cab`](https://github.com/stdlib-js/stdlib/commit/bdb7cab0555da6d3402470aee39cdb31b7a447bd) - **docs:** update REPL namespace documentation [(#2491)](https://github.com/stdlib-js/stdlib/pull/2491) _(by stdlib-bot, Athan Reines)_
 -   [`581f17e`](https://github.com/stdlib-js/stdlib/commit/581f17e69ee0eb47edc2991a3e80581f7e0af338) - **docs:** update REPL namespace documentation [(#2476)](https://github.com/stdlib-js/stdlib/pull/2476) _(by stdlib-bot, Athan Reines)_
