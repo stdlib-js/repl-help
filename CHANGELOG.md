@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2024-07-21)
+## 0.3.0 (2024-07-27)
 
 <section class="features">
 
@@ -14,7 +14,7 @@
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(##1352)](#1352)
+-   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
 
 </section>
 
@@ -29,7 +29,7 @@
 -   [`cde60a1`](https://github.com/stdlib-js/stdlib/commit/cde60a1467279750ff2251c5663e99fb7983841a) - **docs:** update REPL namespace documentation [(#2643)](https://github.com/stdlib-js/stdlib/pull/2643) _(by stdlib-bot, Athan Reines)_
 -   [`80f7ad3`](https://github.com/stdlib-js/stdlib/commit/80f7ad36ad9e628790134c70c44a2556ef726d7d) - **docs:** update REPL namespace documentation [(#2638)](https://github.com/stdlib-js/stdlib/pull/2638) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`c89a171`](https://github.com/stdlib-js/stdlib/commit/c89a171db9b4664582fab09dc95a5cc3b58f9f21) - **docs:** update REPL namespace documentation [(#2629)](https://github.com/stdlib-js/stdlib/pull/2629) _(by stdlib-bot, Athan Reines)_
--   [`203021c`](https://github.com/stdlib-js/stdlib/commit/203021c9da83f016ffd95e454fa057d8cc37b0ff) - **docs:** update REPL namespace documentation [(##2622)](#2622) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`203021c`](https://github.com/stdlib-js/stdlib/commit/203021c9da83f016ffd95e454fa057d8cc37b0ff) - **docs:** update REPL namespace documentation [(#2622)](https://github.com/stdlib-js/stdlib/pull/2622) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`60d2ac3`](https://github.com/stdlib-js/stdlib/commit/60d2ac3e0057d35e6b2208426cc354320172e471) - **docs:** update REPL namespace documentation [(#2608)](https://github.com/stdlib-js/stdlib/pull/2608) _(by stdlib-bot, Athan Reines)_
 -   [`1dc058b`](https://github.com/stdlib-js/stdlib/commit/1dc058b58ad228b9b0d2ca29055a4243473bbddf) - **docs:** update REPL namespace documentation [(#2594)](https://github.com/stdlib-js/stdlib/pull/2594) _(by stdlib-bot, Athan Reines)_
 -   [`6a106fb`](https://github.com/stdlib-js/stdlib/commit/6a106fb22401248973ca13b614a01712acbd5108) - **docs:** update REPL namespace documentation [(#2592)](https://github.com/stdlib-js/stdlib/pull/2592) _(by stdlib-bot, Athan Reines)_
@@ -63,27 +63,27 @@
 -   [`34ef42e`](https://github.com/stdlib-js/stdlib/commit/34ef42e798ec33e1f3a62a15a460dd46ae7c693c) - **docs:** update REPL namespace documentation [(#2246)](https://github.com/stdlib-js/stdlib/pull/2246) _(by stdlib-bot, Athan Reines)_
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - **feat:** add `BooleanArray` to namespace _(by Athan Reines)_
 -   [`732ffb9`](https://github.com/stdlib-js/stdlib/commit/732ffb9a6b406d10830a7aa075e7f23b565cf6ed) - **docs:** update REPL namespace documentation [(#2230)](https://github.com/stdlib-js/stdlib/pull/2230) _(by stdlib-bot, Philipp Burckhardt)_
--   [`b03225f`](https://github.com/stdlib-js/stdlib/commit/b03225f9f443f49fa4c1a2fd089492477f15149e) - **docs:** update REPL namespace documentation [(##2218)](#2218) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`b03225f`](https://github.com/stdlib-js/stdlib/commit/b03225f9f443f49fa4c1a2fd089492477f15149e) - **docs:** update REPL namespace documentation [(#2218)](https://github.com/stdlib-js/stdlib/pull/2218) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`bd40019`](https://github.com/stdlib-js/stdlib/commit/bd40019a7096a1e9d42bbcdcba0fa685ad007401) - **docs:** update REPL namespace documentation [(#2212)](https://github.com/stdlib-js/stdlib/pull/2212) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`657f3c3`](https://github.com/stdlib-js/stdlib/commit/657f3c3ae3c84f68f3a4cf3ecc8f0aa4221a6ffe) - **docs:** update REPL namespace documentation [(#2211)](https://github.com/stdlib-js/stdlib/pull/2211) _(by stdlib-bot, Philipp Burckhardt)_
--   [`f8fef42`](https://github.com/stdlib-js/stdlib/commit/f8fef4209a29f42db6e0e4e1c7f805a61e7bdce6) - **docs:** update REPL namespace documentation [(##2196)](#2196) _(by stdlib-bot, Philipp Burckhardt)_
--   [`cf35195`](https://github.com/stdlib-js/stdlib/commit/cf351957a6915e763a158a1144ba021fcf0d139f) - **docs:** update REPL namespace documentation [(##2191)](#2191 ) _(by stdlib-bot, Philipp Burckhardt)_
--   [`3fff924`](https://github.com/stdlib-js/stdlib/commit/3fff924acdb74eb089ef6af49647e95adec52827) - **docs:** update REPL namespace documentation [(##2179)](#2179 ) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`f8fef42`](https://github.com/stdlib-js/stdlib/commit/f8fef4209a29f42db6e0e4e1c7f805a61e7bdce6) - **docs:** update REPL namespace documentation [(#2196)](https://github.com/stdlib-js/stdlib/pull/2196) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`cf35195`](https://github.com/stdlib-js/stdlib/commit/cf351957a6915e763a158a1144ba021fcf0d139f) - **docs:** update REPL namespace documentation [(#2191)](https://github.com/stdlib-js/stdlib/pull/2191 ) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`3fff924`](https://github.com/stdlib-js/stdlib/commit/3fff924acdb74eb089ef6af49647e95adec52827) - **docs:** update REPL namespace documentation [(#2179)](https://github.com/stdlib-js/stdlib/pull/2179 ) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`6abb1f9`](https://github.com/stdlib-js/stdlib/commit/6abb1f9e26f61682d499de7c9da9dbe2e63b9869) - **docs:** update REPL namespace documentation [(#2168)](https://github.com/stdlib-js/stdlib/pull/2168) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`7b77a10`](https://github.com/stdlib-js/stdlib/commit/7b77a104797e468681ed6d9d648dcdd9ebddf58b) - **docs:** update REPL namespace documentation [(#2166)](https://github.com/stdlib-js/stdlib/pull/2166) _(by stdlib-bot, Philipp Burckhardt)_
--   [`0920a48`](https://github.com/stdlib-js/stdlib/commit/0920a48cc4d3c10c2bc46bdd74890ffd081bd927) - **docs:** update REPL namespace documentation [(##2165)](#2165 ) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`0920a48`](https://github.com/stdlib-js/stdlib/commit/0920a48cc4d3c10c2bc46bdd74890ffd081bd927) - **docs:** update REPL namespace documentation [(#2165)](https://github.com/stdlib-js/stdlib/pull/2165 ) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`dc6e8dd`](https://github.com/stdlib-js/stdlib/commit/dc6e8dd3ddf88d549f86895691fdc763cd355468) - **docs:** update REPL namespace documentation [(#2164)](https://github.com/stdlib-js/stdlib/pull/2164) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`c91d15e`](https://github.com/stdlib-js/stdlib/commit/c91d15e07e9fd9f4ac754f55d48bd18935bf8536) - **build:** add trailing newlines in generated JSON files _(by Philipp Burckhardt)_
--   [`915a373`](https://github.com/stdlib-js/stdlib/commit/915a37396f39be83ba6c77bb5f6d9d515c6560c6) - **docs:** update REPL namespace documentation [(##2158)](#2158) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`915a373`](https://github.com/stdlib-js/stdlib/commit/915a37396f39be83ba6c77bb5f6d9d515c6560c6) - **docs:** update REPL namespace documentation [(#2158)](https://github.com/stdlib-js/stdlib/pull/2158) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
--   [`d77bec4`](https://github.com/stdlib-js/stdlib/commit/d77bec435fec614c5cd5362e92d182c870261119) - **docs:** update REPL namespace documentation [(##2088)](#2088) _(by stdlib-bot, Philipp Burckhardt)_
--   [`9211a99`](https://github.com/stdlib-js/stdlib/commit/9211a99ff8c46f1192044d720f785ba772a0f8ce) - **docs:** update REPL namespace documentation [(##2086)](#2086 ) _(by stdlib-bot, Philipp Burckhardt)_
--   [`faddc92`](https://github.com/stdlib-js/stdlib/commit/faddc9267a1e6b74fae779c217e43bc9981c2c7b) - **docs:** update REPL namespace documentation [(##2052)](#2052) _(by stdlib-bot, Philipp Burckhardt)_
--   [`7abac40`](https://github.com/stdlib-js/stdlib/commit/7abac40d7e899d648086c2f1586ad1f1732ae0d5) - **docs:** update REPL namespace documentation [(##2045)](#2045) _(by stdlib-bot, Philipp Burckhardt)_
--   [`6737428`](https://github.com/stdlib-js/stdlib/commit/6737428ddbdde7fbde14f2bbfd905173f3293a76) - **docs:** update REPL namespace documentation [(##2043)](#2043) _(by stdlib-bot)_
+-   [`d77bec4`](https://github.com/stdlib-js/stdlib/commit/d77bec435fec614c5cd5362e92d182c870261119) - **docs:** update REPL namespace documentation [(#2088)](https://github.com/stdlib-js/stdlib/pull/2088) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`9211a99`](https://github.com/stdlib-js/stdlib/commit/9211a99ff8c46f1192044d720f785ba772a0f8ce) - **docs:** update REPL namespace documentation [(#2086)](https://github.com/stdlib-js/stdlib/pull/2086 ) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`faddc92`](https://github.com/stdlib-js/stdlib/commit/faddc9267a1e6b74fae779c217e43bc9981c2c7b) - **docs:** update REPL namespace documentation [(#2052)](https://github.com/stdlib-js/stdlib/pull/2052) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`7abac40`](https://github.com/stdlib-js/stdlib/commit/7abac40d7e899d648086c2f1586ad1f1732ae0d5) - **docs:** update REPL namespace documentation [(#2045)](https://github.com/stdlib-js/stdlib/pull/2045) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`6737428`](https://github.com/stdlib-js/stdlib/commit/6737428ddbdde7fbde14f2bbfd905173f3293a76) - **docs:** update REPL namespace documentation [(#2043)](https://github.com/stdlib-js/stdlib/pull/2043) _(by stdlib-bot)_
 -   [`719ac3e`](https://github.com/stdlib-js/stdlib/commit/719ac3ea7562fff42ca3600a918109152bfa5ae9) - **docs:** update REPL namespace documentation [(#2033)](https://github.com/stdlib-js/stdlib/pull/2033) _(by stdlib-bot, Athan Reines)_
 -   [`3a06280`](https://github.com/stdlib-js/stdlib/commit/3a06280e3f66d21fb9fcf6aeefa91d76654b9ad4) - **docs:** update REPL namespace documentation [(#2023)](https://github.com/stdlib-js/stdlib/pull/2023) _(by stdlib-bot, Philipp Burckhardt)_
--   [`d761a25`](https://github.com/stdlib-js/stdlib/commit/d761a259c0e052fbde19930dda0a3c7603f9ad9c) - **docs:** update REPL namespace documentation [(##2022)](#2022) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`d761a25`](https://github.com/stdlib-js/stdlib/commit/d761a259c0e052fbde19930dda0a3c7603f9ad9c) - **docs:** update REPL namespace documentation [(#2022)](https://github.com/stdlib-js/stdlib/pull/2022) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`f580092`](https://github.com/stdlib-js/stdlib/commit/f580092a64768060b7a652d0f5cd27da8eefcd7c) - **docs:** update REPL namespace documentation [(#2017)](https://github.com/stdlib-js/stdlib/pull/2017) _(by stdlib-bot, Athan Reines)_
 -   [`cb2d15b`](https://github.com/stdlib-js/stdlib/commit/cb2d15b2aa47acfdaa4a80a36b9b8d16da5b301f) - **docs:** update REPL namespace documentation [(#2013)](https://github.com/stdlib-js/stdlib/pull/2013) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`1259ab4`](https://github.com/stdlib-js/stdlib/commit/1259ab4070fcabe51b7517a9811d84fbde27648c) - **docs:** update REPL namespace documentation (#2004) [(#2004)](https://github.com/stdlib-js/stdlib/pull/2004) _(by stdlib-bot, Philipp Burckhardt)_
@@ -95,18 +95,18 @@
 -   [`0b8a3d4`](https://github.com/stdlib-js/stdlib/commit/0b8a3d430c6e84259c66e75fddb5c4fab6684f0f) - **docs:** update REPL namespace documentation [(#1979)](https://github.com/stdlib-js/stdlib/pull/1979) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`b9d0c57`](https://github.com/stdlib-js/stdlib/commit/b9d0c57c38d4e8e6c286d3e183068f04ed1d9bee) - **docs:** update REPL namespace documentation [(#1977)](https://github.com/stdlib-js/stdlib/pull/1977) _(by stdlib-bot, Athan Reines)_
 -   [`8dc9d13`](https://github.com/stdlib-js/stdlib/commit/8dc9d1324cac3b989198444292e978fb2602d874) - **docs:** update REPL namespace documentation [(#1973)](https://github.com/stdlib-js/stdlib/pull/1973) _(by stdlib-bot, Athan Reines)_
--   [`7945e17`](https://github.com/stdlib-js/stdlib/commit/7945e17778741d41b0159c86d8663d5acaab4208) - **docs:** update REPL namespace documentation [(##1972)](#1972) _(by stdlib-bot, Athan Reines)_
--   [`c0993fa`](https://github.com/stdlib-js/stdlib/commit/c0993fab3c31a6a4a2cc2a57f6df7929c9fedb86) - **docs:** update REPL namespace documentation [(##1956)](#1956) _(by stdlib-bot, kgryte)_
--   [`7f3f555`](https://github.com/stdlib-js/stdlib/commit/7f3f55526482eb972f1ca9096a58393ba097d5fb) - **docs:** update REPL namespace documentation [(##1928)](#1928) _(by stdlib-bot, Planeshifter)_
+-   [`7945e17`](https://github.com/stdlib-js/stdlib/commit/7945e17778741d41b0159c86d8663d5acaab4208) - **docs:** update REPL namespace documentation [(#1972)](https://github.com/stdlib-js/stdlib/pull/1972) _(by stdlib-bot, Athan Reines)_
+-   [`c0993fa`](https://github.com/stdlib-js/stdlib/commit/c0993fab3c31a6a4a2cc2a57f6df7929c9fedb86) - **docs:** update REPL namespace documentation [(#1956)](https://github.com/stdlib-js/stdlib/pull/1956) _(by stdlib-bot, kgryte)_
+-   [`7f3f555`](https://github.com/stdlib-js/stdlib/commit/7f3f55526482eb972f1ca9096a58393ba097d5fb) - **docs:** update REPL namespace documentation [(#1928)](https://github.com/stdlib-js/stdlib/pull/1928) _(by stdlib-bot, Planeshifter)_
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - **feat:** add `isNonNegativeFinite` to namespace _(by Athan Reines)_
--   [`b5f1824`](https://github.com/stdlib-js/stdlib/commit/b5f18242cfeb0cfea17049db11500d1e8e77dbf2) - **docs:** update REPL namespace documentation [(##1877)](#1877) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`b5f1824`](https://github.com/stdlib-js/stdlib/commit/b5f18242cfeb0cfea17049db11500d1e8e77dbf2) - **docs:** update REPL namespace documentation [(#1877)](https://github.com/stdlib-js/stdlib/pull/1877) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e65e1fc`](https://github.com/stdlib-js/stdlib/commit/e65e1fcd24305bfd483de0421a411d964e2df84c) - **docs:** update REPL namespace documentation [(#1858)](https://github.com/stdlib-js/stdlib/pull/1858) _(by stdlib-bot, Athan Reines)_
 -   [`fee1564`](https://github.com/stdlib-js/stdlib/commit/fee15646315816062b06b0b23d35ffb38c102a64) - **docs:** update REPL namespace documentation [(#1817)](https://github.com/stdlib-js/stdlib/pull/1817) _(by stdlib-bot, Athan Reines)_
 -   [`13a8841`](https://github.com/stdlib-js/stdlib/commit/13a8841087876a3f66df30255f1ef40256055c95) - **docs:** update REPL namespace documentation [(#1708)](https://github.com/stdlib-js/stdlib/pull/1708) _(by stdlib-bot, Athan Reines)_
--   [`e330815`](https://github.com/stdlib-js/stdlib/commit/e3308159d30e3ff994d1d9ff5b26d7188f3248be) - **docs:** update REPL namespace documentation [(##1699)](#1699) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`e330815`](https://github.com/stdlib-js/stdlib/commit/e3308159d30e3ff994d1d9ff5b26d7188f3248be) - **docs:** update REPL namespace documentation [(#1699)](https://github.com/stdlib-js/stdlib/pull/1699) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`103893f`](https://github.com/stdlib-js/stdlib/commit/103893fee44dcae6b5462bfe27b1cad6727519ec) - **docs:** update REPL namespace documentation [(#1688)](https://github.com/stdlib-js/stdlib/pull/1688) _(by stdlib-bot, Athan Reines)_
 -   [`c44cae7`](https://github.com/stdlib-js/stdlib/commit/c44cae79ea509323b6bcd9ab4f627f359b0fb0aa) - **docs:** update REPL namespace documentation [(#1677)](https://github.com/stdlib-js/stdlib/pull/1677) _(by stdlib-bot, Athan Reines)_
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - **feat:** update REPL namespace [(##1352)](#1352) _(by stdlib-bot, Athan Reines)_
+-   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - **feat:** update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352) _(by stdlib-bot, Athan Reines)_
 
 </details>
 
@@ -144,6 +144,50 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - **feat:** add `amskreject` to namespace _(by Athan Reines)_
+-   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - **feat:** add `amskfilter` to namespace _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+<section class="features">
+
+### Features
+
 -   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
 -   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
 -   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
@@ -203,7 +247,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 -   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - add `ndarrayFlags` to namespace
 -   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - add `maybeBroadcastArrays` to namespace
 -   [`5e1d785`](https://github.com/stdlib-js/stdlib/commit/5e1d7852a61aedd3985994f4fce35be9b0f08d05) - add `broadcastArrays` to namespace
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(##1164)](#1164)
+-   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164)
 -   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - add `ndsliceFrom` to namespace
 -   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - add assertion utilities to namespace
 -   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - add `ndarrayStride` to namespace
@@ -232,55 +276,10 @@ A total of 5 people contributed to this release. Thank you to the following cont
 -   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
 -   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
 -   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 <section class="commits">
 
@@ -288,8 +287,6 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - **feat:** add `amskreject` to namespace _(by Athan Reines)_
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - **feat:** add `amskfilter` to namespace _(by Athan Reines)_
 -   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - **feat:** add `ArrayIndex` to namespace _(by Athan Reines)_
 -   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - **feat:** add `atake` to namespace _(by Athan Reines)_
 -   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - **feat:** add `array2fancy` to namespace _(by Athan Reines)_
@@ -350,7 +347,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 -   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - **feat:** add `ndarrayFlags` to namespace _(by Athan Reines)_
 -   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - **feat:** add `maybeBroadcastArrays` to namespace _(by Athan Reines)_
 -   [`5e1d785`](https://github.com/stdlib-js/stdlib/commit/5e1d7852a61aedd3985994f4fce35be9b0f08d05) - **feat:** add `broadcastArrays` to namespace _(by Athan Reines)_
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - **feat:** update REPL namespace [(##1164)](#1164) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - **feat:** update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - **feat:** add `ndsliceFrom` to namespace _(by Athan Reines)_
 -   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - **feat:** add assertion utilities to namespace _(by Athan Reines)_
 -   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - **feat:** add `ndarrayStride` to namespace _(by Athan Reines)_
@@ -382,12 +379,142 @@ A total of 5 people contributed to this release. Thank you to the following cont
 -   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - **feat:** add `nditerValues` to namespace _(by Athan Reines)_
 -   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - **feat:** add `nditerEntries` to namespace _(by Athan Reines)_
 -   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - **feat:** add `nditerIndices` to namespace _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2023-10-03)
+
+<section class="features">
+
+### Features
+
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
 -   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - **feat:** add `broadcastArray` to namespace _(by Athan Reines)_
 -   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - **feat:** add `nditer2arrayEach` to namespace _(by Athan Reines)_
 -   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - **feat:** add `nditerRows` and `nditerColumns` to namespace _(by Athan Reines)_
 -   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - **feat:** add `ndsliceAssign` to namespace _(by Athan Reines)_
 -   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - **feat:** add `ndslice` to namespace _(by Athan Reines)_
 -   [`7f160b3`](https://github.com/stdlib-js/stdlib/commit/7f160b39ce35b7f3cc519477f50453bf55d565fa) - **docs:** update REPL namespace [(#1104)](https://github.com/stdlib-js/stdlib/pull/1104) _(by stdlib-bot, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-22)
+
+<section class="features">
+
+### Features
+
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+-   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
 -   [`acea23e`](https://github.com/stdlib-js/stdlib/commit/acea23e5bac0490854ae35ad9d919b6136ad5434) - **docs:** update REPL namespace [(#1101)](https://github.com/stdlib-js/stdlib/pull/1101) _(by stdlib-bot, Athan Reines)_
 -   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - **feat:** add `FancyArray` to namespace _(by Athan Reines)_
 -   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - **feat:** add `seq2slice` to namespace _(by Athan Reines)_
@@ -446,6 +573,86 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.8">
+
+## 0.0.8 (2022-02-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.7">
+
+## 0.0.7 (2021-08-23)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.6">
+
+## 0.0.6 (2021-07-09)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.5">
+
+## 0.0.5 (2021-07-06)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.4">
+
+## 0.0.4 (2021-06-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.3">
+
+## 0.0.3 (2021-06-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2021-06-15)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2021-06-14)
+
+No changes reported for this release.
 
 </section>
 
