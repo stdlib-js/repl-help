@@ -61,12 +61,12 @@
     "@stdlib/process-exec-path": "^0.2.2",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/string-replace": "^0.2.2",
-    "@stdlib/utils-dirname": "^0.2.1",
-    "@stdlib/utils-keys": "^0.2.1",
+    "@stdlib/utils-dirname": "^0.2.2",
+    "@stdlib/utils-keys": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
