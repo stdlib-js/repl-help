@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
@@ -24,6 +25,7 @@
 
 <details>
 
+-   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - **feat:** add `nditerInterleaveSubarrays` to namespace _(by Athan Reines)_
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - **feat:** add `nditerStacks` to namespace _(by Athan Reines)_
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - **feat:** add `nditerSubarrays` to namespace _(by Athan Reines)_
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - **feat:** add `nditerSelectDimension` to namespace _(by Athan Reines)_
@@ -169,10 +171,9 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Philipp Burckhardt
 -   Philipp Burckhardt
 -   Planeshifter
 -   kgryte
@@ -551,8 +552,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### BREAKING CHANGES
 
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
