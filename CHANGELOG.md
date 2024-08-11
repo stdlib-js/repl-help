@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-03)
+## Unreleased (2024-08-11)
+
+<section class="features">
+
+### Features
+
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - **feat:** add `nditerSelectDimension` to namespace _(by Athan Reines)_
 -   [`19abe48`](https://github.com/stdlib-js/stdlib/commit/19abe4839bccbe8b48fbe92f5fe9737f304a5cd9) - **docs:** update REPL namespace documentation [(#2722)](https://github.com/stdlib-js/stdlib/pull/2722) _(by stdlib-bot, Athan Reines)_
 -   [`70eb789`](https://github.com/stdlib-js/stdlib/commit/70eb789d85da0d8470a61b28ed0a80ee1009d179) - **docs:** update REPL namespace documentation [(#2682)](https://github.com/stdlib-js/stdlib/pull/2682) _(by stdlib-bot, Philipp Burckhardt)_
 
