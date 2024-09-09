@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-09)
 
 <section class="features">
 
 ### Features
 
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 -   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
@@ -26,6 +27,7 @@
 
 <details>
 
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - **feat:** add `isSameArrayLike` to namespace _(by Athan Reines)_
 -   [`cf3e438`](https://github.com/stdlib-js/stdlib/commit/cf3e438ecf31260a2ebff08f6477bb4d29e8440f) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - **feat:** add `ndarraylike2ndarray` to namespace _(by Athan Reines)_
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - **feat:** add `nditerInterleaveSubarrays` to namespace _(by Athan Reines)_
