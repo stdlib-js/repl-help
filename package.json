@@ -55,7 +55,7 @@
     "@stdlib/fs-read-json": "^0.2.2",
     "@stdlib/fs-resolve-parent-path": "^0.2.2",
     "@stdlib/fs-write-file": "^0.2.2",
-    "@stdlib/namespace": "^0.3.1",
+    "@stdlib/namespace": "^0.3.3",
     "@stdlib/namespace-aliases": "^0.3.0",
     "@stdlib/namespace-pkg2alias": "^0.3.0",
     "@stdlib/process-exec-path": "^0.2.2",
