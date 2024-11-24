@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-20)
+## Unreleased (2024-11-24)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`136231d`](https://github.com/stdlib-js/stdlib/commit/136231d9a98f773662721f5f292cf50220deafc5) - **docs:** update REPL namespace documentation [(#3244)](https://github.com/stdlib-js/stdlib/pull/3244) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`4b1d77d`](https://github.com/stdlib-js/stdlib/commit/4b1d77d2bd001d5970ce93230765a579fb41349d) - **docs:** update REPL namespace documentation [(#3191)](https://github.com/stdlib-js/stdlib/pull/3191) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - **feat:** add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace _(by Athan Reines)_
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - **feat:** add `isndarrayLikeWithDataType` to namespace _(by Athan Reines)_
