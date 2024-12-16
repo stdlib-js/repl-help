@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2024-12-16)
 
 <section class="features">
 
@@ -36,6 +36,7 @@
 
 <details>
 
+-   [`31cd034`](https://github.com/stdlib-js/stdlib/commit/31cd0347ff2c9b5b8e5b536b5a72e5befc3d308d) - **docs:** update REPL namespace documentation [(#3938)](https://github.com/stdlib-js/stdlib/pull/3938) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e43aaa9`](https://github.com/stdlib-js/stdlib/commit/e43aaa95f790584e26f189ab52267108bb423231) - **docs:** update REPL namespace documentation [(#3917)](https://github.com/stdlib-js/stdlib/pull/3917) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - **feat:** add `ndfilterMap` to namespace _(by Athan Reines)_
 -   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - **feat:** add `ndreject` to namespace _(by Athan Reines)_
