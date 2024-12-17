@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-16)
+## Unreleased (2024-12-17)
 
 <section class="features">
 
 ### Features
 
+-   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
 -   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
 -   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
 -   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
@@ -36,6 +37,7 @@
 
 <details>
 
+-   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - **feat:** add `ndarray2json` to namespace _(by Athan Reines)_
 -   [`31cd034`](https://github.com/stdlib-js/stdlib/commit/31cd0347ff2c9b5b8e5b536b5a72e5befc3d308d) - **docs:** update REPL namespace documentation [(#3938)](https://github.com/stdlib-js/stdlib/pull/3938) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e43aaa9`](https://github.com/stdlib-js/stdlib/commit/e43aaa95f790584e26f189ab52267108bb423231) - **docs:** update REPL namespace documentation [(#3917)](https://github.com/stdlib-js/stdlib/pull/3917) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - **feat:** add `ndfilterMap` to namespace _(by Athan Reines)_
