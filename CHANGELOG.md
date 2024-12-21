@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-21)
 
 <section class="features">
 
@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`4b70046`](https://github.com/stdlib-js/stdlib/commit/4b70046a90794cfab03c25c4a796edfd0c7a89a6) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`54fb9de`](https://github.com/stdlib-js/stdlib/commit/54fb9de7dc776a7d01ca86de154d0f74694d1630) - **docs:** update REPL namespace documentation [(#3978)](https://github.com/stdlib-js/stdlib/pull/3978) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - **feat:** add `ndarray2json` to namespace _(by Athan Reines)_
 -   [`31cd034`](https://github.com/stdlib-js/stdlib/commit/31cd0347ff2c9b5b8e5b536b5a72e5befc3d308d) - **docs:** update REPL namespace documentation [(#3938)](https://github.com/stdlib-js/stdlib/pull/3938) _(by stdlib-bot, Philipp Burckhardt)_
