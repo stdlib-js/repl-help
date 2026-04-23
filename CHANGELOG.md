@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-20)
+## Unreleased (2026-04-23)
+
+<section class="features">
+
+### Features
+
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - add `Float64Vector` to namespace
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - **feat:** add `Float64Vector` to namespace _(by Athan Reines)_
 -   [`3ae26e4`](https://github.com/stdlib-js/stdlib/commit/3ae26e4204f41c6e7a0f235c8cc56e6df042813a) - **docs:** update REPL namespace documentation [(#11636)](https://github.com/stdlib-js/stdlib/pull/11636) _(by stdlib-bot)_
 -   [`4ed570d`](https://github.com/stdlib-js/stdlib/commit/4ed570d24239a960485c499cf35fde922fc062cc) - **docs:** update REPL namespace documentation [(#11561)](https://github.com/stdlib-js/stdlib/pull/11561) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`068ed70`](https://github.com/stdlib-js/stdlib/commit/068ed707b2293238eed0f3dafa1a4c3001d4d01b) - **docs:** update REPL namespace documentation [(#11401)](https://github.com/stdlib-js/stdlib/pull/11401) _(by stdlib-bot)_
@@ -35,8 +46,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
