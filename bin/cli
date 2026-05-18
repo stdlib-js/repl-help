@@ -25,7 +25,7 @@
 var resolve = require( 'path' ).resolve;
 var readFileSync = require( '@stdlib/fs-read-file' ).sync;
 var CLI = require( '@stdlib/cli-ctor' );
-var help = require( './../lib' );
+var help = require( '@stdlib/repl-help' );
 
 
 // MAIN //
