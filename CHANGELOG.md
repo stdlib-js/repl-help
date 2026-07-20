@@ -31,6 +31,7 @@
 
 <details>
 
+-   [`55ca069`](https://github.com/stdlib-js/stdlib/commit/55ca069d46e27485fd4571b109bc54373d895b8b) - **docs:** update REPL namespace documentation [(#13574)](https://github.com/stdlib-js/stdlib/pull/13574) _(by stdlib-bot)_
 -   [`f7c6546`](https://github.com/stdlib-js/stdlib/commit/f7c6546ee0566ad4a3a4a71f71f9ce60ed138f5a) - **docs:** update REPL namespace documentation [(#13546)](https://github.com/stdlib-js/stdlib/pull/13546) _(by stdlib-bot)_
 -   [`7d78500`](https://github.com/stdlib-js/stdlib/commit/7d785001518fef87b607c8397e99c519715ee86f) - **build:** ensure correct operator precedence when using a dynamic `require` expression [(#13537)](https://github.com/stdlib-js/stdlib/pull/13537) _(by Abdul Kaium)_
 -   [`2c65266`](https://github.com/stdlib-js/stdlib/commit/2c652662d0ac5272086f060243858c7a40b943f7) - **docs:** update REPL namespace documentation [(#13528)](https://github.com/stdlib-js/stdlib/pull/13528) _(by stdlib-bot)_
