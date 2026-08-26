@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-12)
+## Unreleased (2026-08-26)
 
 <section class="features">
 
 ### Features
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
 -   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - add `Uint64` to namespace
 -   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - add `truesLike` to namespace
@@ -31,6 +32,7 @@
 
 <details>
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
 -   [`d03ebc4`](https://github.com/stdlib-js/stdlib/commit/d03ebc45317cd30add7e28564775814e3e6646ef) - **docs:** update REPL namespace documentation [(#14186)](https://github.com/stdlib-js/stdlib/pull/14186) _(by stdlib-bot)_
 -   [`48465b4`](https://github.com/stdlib-js/stdlib/commit/48465b4552e59fba2ef42dd760a891a363c9d34d) - **docs:** update REPL namespace documentation [(#14159)](https://github.com/stdlib-js/stdlib/pull/14159) _(by stdlib-bot)_
 -   [`6def945`](https://github.com/stdlib-js/stdlib/commit/6def9455989666934b1333a1361112e1c6377b34) - **docs:** update REPL namespace documentation [(#13710)](https://github.com/stdlib-js/stdlib/pull/13710) _(by stdlib-bot)_
