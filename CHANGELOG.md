@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`f4bbfe5`](https://github.com/stdlib-js/stdlib/commit/f4bbfe55989caa31df37da6f9a92a7c31f53ab21) - **docs:** update REPL namespace documentation [(#14800)](https://github.com/stdlib-js/stdlib/pull/14800) _(by stdlib-bot)_
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
 -   [`d03ebc4`](https://github.com/stdlib-js/stdlib/commit/d03ebc45317cd30add7e28564775814e3e6646ef) - **docs:** update REPL namespace documentation [(#14186)](https://github.com/stdlib-js/stdlib/pull/14186) _(by stdlib-bot)_
 -   [`48465b4`](https://github.com/stdlib-js/stdlib/commit/48465b4552e59fba2ef42dd760a891a363c9d34d) - **docs:** update REPL namespace documentation [(#14159)](https://github.com/stdlib-js/stdlib/pull/14159) _(by stdlib-bot)_
