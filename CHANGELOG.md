@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-04)
+## Unreleased (2026-11-06)
 
 <section class="features">
 
 ### Features
 
+-   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - add `GenericVector` and `GenericMatrix` to namespace
 -   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - add `arraybuffer2ndarray` to namespace
 -   [`5492397`](https://github.com/stdlib-js/stdlib/commit/5492397c9793721709993f55f7fef06b2547407c) - add various symbols to namespace
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
@@ -34,6 +35,7 @@
 
 <details>
 
+-   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - **feat:** add `GenericVector` and `GenericMatrix` to namespace _(by Athan Reines)_
 -   [`9cb9abe`](https://github.com/stdlib-js/stdlib/commit/9cb9abe70fefd01019499ac807ac2ed3f4b6518b) - **docs:** update REPL namespace documentation [(#16483)](https://github.com/stdlib-js/stdlib/pull/16483) _(by stdlib-bot)_
 -   [`a775fc5`](https://github.com/stdlib-js/stdlib/commit/a775fc537effb611a9ef26150ae691b8096706f9) - **docs:** update REPL namespace documentation [(#16457)](https://github.com/stdlib-js/stdlib/pull/16457) _(by stdlib-bot)_
 -   [`f214eec`](https://github.com/stdlib-js/stdlib/commit/f214eecb6dc540b861ce0a74b185b020be62a3c0) - **docs:** update REPL namespace documentation [(#16416)](https://github.com/stdlib-js/stdlib/pull/16416) _(by stdlib-bot)_
