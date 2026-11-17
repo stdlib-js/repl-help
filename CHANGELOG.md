@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-16)
+## Unreleased (2026-11-17)
 
 <section class="features">
 
@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`4d0ccea`](https://github.com/stdlib-js/stdlib/commit/4d0ccea3f4ffff979a3488bd3f3dff168549b49b) - **docs:** update REPL namespace documentation [(#16669)](https://github.com/stdlib-js/stdlib/pull/16669) _(by stdlib-bot)_
 -   [`b994f2e`](https://github.com/stdlib-js/stdlib/commit/b994f2e137ebebe2e88958f91aa97e672f7bfbf3) - **feat:** add various zero-dimensional ndarray constructors to namespace _(by Athan Reines)_
 -   [`b8735f5`](https://github.com/stdlib-js/stdlib/commit/b8735f537688806517ad087313de6bf05dba4c82) - **feat:** add `isNumberOrComplexLike` to namespace _(by Athan Reines)_
 -   [`5549502`](https://github.com/stdlib-js/stdlib/commit/554950248078227a27fc4aa56ace285efa79a8a5) - **docs:** update REPL namespace documentation [(#16620)](https://github.com/stdlib-js/stdlib/pull/16620) _(by stdlib-bot)_
